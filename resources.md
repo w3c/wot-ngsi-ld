@@ -6,6 +6,7 @@
 * [ETSI ISG CIM – Digital Twin Workshop, Martin Bauer, 05/07/2022](https://www.egm.io/wp-content/uploads/2022/07/04-Introduction_to_NGSI-LD.pdf)
 
 ## Papers
+* [ETSI Whitepaper No. 42, Guidelines for Modelling with NGSI-LD, Gilles Privat, 2021](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp_42_NGSI_LD.pdf) 
 
 ## Associated Projects
 * [Smart Data Models](https://smartdatamodels.org/)
