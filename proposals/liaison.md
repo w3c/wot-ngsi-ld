@@ -28,7 +28,7 @@ The liaison proposal has emerged from informal discussion between W3C WoT and ET
 ## Scope 
 What work needs to be done, by whom?
 * W3C WoT WG to develop, in collaboration with ETSI ISG CIM,
-  a NGSI-LD Binding that defines what information is needed in a
+  documents that define what information is needed in a
   Thing Description to communicate with an NSGI-LD Context Broker and access specific Things/NGSI-LD Entities.
 * ETSI ISG CIM to develop, in collaboration with the WoT WG,
   extensions of existing specifications to include the use of a WoT Thing Description for NGSI-LD model descriptions
