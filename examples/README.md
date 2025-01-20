@@ -23,7 +23,7 @@ Owner: Rigo
 * Related to geofencing/spatial data
 * Boundaries
 
-### Things Models as Templates
+### Thing Models as Templates
 Owner: Juanjo
 * Model interfaces and characteristics of digital twins
 * Derive TDs for sets of instances that use NGSI-LD as an interface
