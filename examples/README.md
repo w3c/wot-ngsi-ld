@@ -16,17 +16,28 @@ Unified, more abstract interface that can reorganize resources by function.
 Comment: WoT TDs can combine resources from different physical devices or services.
 
 ### Digital twin modelling
+Owner: Rigo
 * Resource for landscape of standards: @@@@ Rigo
 * Need to be specific... clearly define sub-cases
 * Related to Smart Cities IG/use cases
 * Related to geofencing/spatial data
 * Boundaries
 
+### Things Models as Templates
+Owner: Juanjo
+* Model interfaces and characteristics of digital twins
+* Derive TDs for sets of instances that use NGSI-LD as an interface
+
 ### Onboarding of devices described by TDs into NSGI-LD systems
+Owner: McCool
+* "Southbound" integration e.g. for a FIWARE server ingesting TD from other services.
 
 ### Describing NGSI-LD services with WoT TDs
+Owner: McCool
+* "Northbound" integration e.g. for a FIWARE server exposing TD for other services (including web browsers or RESTful API consumers).
 
 ### Privacy/Security/Safety and Access Controls
+Owner: Rigo
 * Metadata risks
 * Authorized actions and roles
 * Interactions with smart data management systems
