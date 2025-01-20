@@ -24,16 +24,12 @@ The liaison proposal has emerged from informal discussion between W3C WoT and ET
 * Martin Bauer - NEC - ETSI ISG CIM Vice chair
 * Juanjo Hierro - Freelance - Chair of FIWARE TSC
 
-
 ## Scope 
 What work needs to be done, by whom?
-* W3C WoT WG to develop, in collaboration with ETSI ISG CIM,
-  documents that define what information is needed in a
-  Thing Description to communicate with an NSGI-LD Context Broker and access specific Things/NGSI-LD Entities.
-* ETSI ISG CIM to develop, in collaboration with the WoT WG,
-  extensions of existing specifications to include the use of a WoT Thing Description for NGSI-LD model descriptions
+* Collaboratively document and prioritize potential Use Cases for the combination of WoT and NGSI-LD.
+* Depending on the prioritized use cases, develop documents detailing the interactions between WoT and NSGI-LD, including any needed or desireable specification extensions.
 
-## Deliverables 
+## Potential Deliverables 
 The following have been discussed but have not been formally agreed to.
 * NGSI-LD API Binding Document as W3C Note
    - Alternatives with more details:
@@ -42,17 +38,10 @@ The following have been discussed but have not been formally agreed to.
        * NGSI-LD API Binding Document as W3C Note describing how to use NGSI-LD to interact with Things
        * NGSI-LD API Binding Document as W3C Note describing what information is needed to interact with an NGSI-LD service
 * Extend ETSI GR-055 or another document to include the use of WoT Thing Description for NGSI-LD model description
-
-## Gaps
-
-## Dependencies
-What depends on what?
-### WoT Dependencies on Organization's Deliverables
-
-### Organization's Dependencies on WoT's Deliverables
+* Documents and presentations exploring the explaining the potential use cases.
 
 ## Schedule
-Deliverables are expected to be published by end of 2025
+Activities are expected to be completed by end of 2025.
 
 ## Resources
 - [Github Repo](https://github.com/w3c/wot-ngsi-ld)
