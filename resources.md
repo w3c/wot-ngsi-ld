@@ -15,10 +15,10 @@
 * [ETSI Whitepaper No. 42, Guidelines for Modelling with NGSI-LD, Gilles Privat, 2021](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp_42_NGSI_LD.pdf)
 * [ICT Landscape of Robotics Standards](https://www.standict.eu/landscape-analysis-report/landscape-robotics-standards)
 * [SynchroniCity](https://oascities.org/wp-content/uploads/2022/08/SynchroniCity_D2.10.pdf)
-** May not be relevant - McCool/Kaz to review for use cases
-** See also https://cordis.europa.eu/project/id/732240/reporting
+  - May not be relevant - McCool/Kaz to review for use cases
+  - See also https://cordis.europa.eu/project/id/732240/reporting
 
 ## Associated Projects
 * [Smart Data Models](https://smartdatamodels.org/)
 * [FIWARE](https://www.fiware.org/)
-** [FIWARE4CITIES Book](https://www.fiware.org/about-us/smart-cities/fiware4cities-book/)
+  - [FIWARE4CITIES Book](https://www.fiware.org/about-us/smart-cities/fiware4cities-book/)
