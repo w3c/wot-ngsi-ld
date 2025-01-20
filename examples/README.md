@@ -8,8 +8,6 @@ Relate to WoT Use Case process, see https://github.com/w3c/wot-usecases, in part
    - Franck/Martin to discuss in ISG plenary next week
 * Look up past WoT CG presentations e.g. on functional safety, spatial data, and digital twins
    - McCool to ask Ege
-* Identify key concepts in WoT and NGSI-LD to compare
-   - Martin
   
 ## Possible Topics
 
