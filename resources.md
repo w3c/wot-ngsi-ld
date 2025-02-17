@@ -9,6 +9,7 @@
 ## Presentations
 * [ETSI ISG CIM – Digital Twin Workshop, Martin Bauer, 05/07/2022](https://www.egm.io/wp-content/uploads/2022/07/04-Introduction_to_NGSI-LD.pdf)
 * [NGSI-LD: an approach for integration at multiple levels based on digital twins and following a system of systems approach, Juanjo Hierro, 03/22/2024](https://docs.google.com/presentation/d/1xAm6ZZaxZamFj40BRCfvZKz2P_aXVrSy/)
+* [NGSI-LD and WoT: complementary open standards that may converge to bring a standard for digital twin data management, Juanjo Hierro, 06/21/2024](https://docs.google.com/presentation/d/1-RI8q1hhnRqaZDwvxnpKnaaxQ0kMGtME/edit?usp=sharing&ouid=115453639179713725602&rtpof=true&sd=true)
 * [WoT and NGSI-LD - NGSI-LD Introduction, Martin Bauer, 11/29/2024](https://github.com/w3c/wot-ngsi-ld/raw/refs/heads/main/resources/NGSI-LD%20Presentation%20to%20W3C%20WoT.pptx)
 * [W3C WoT and NGSI-LD Concepts, Martin Bauer, 02/03/2025](https://github.com/w3c/wot-ngsi-ld/blob/main/resources/W3C%20WoT%20and%20NGSI-LD%20Concepts.pptx)
 
