@@ -30,3 +30,6 @@
 * [Smart Data Models](https://smartdatamodels.org/)
 * [FIWARE](https://www.fiware.org/)
   - [FIWARE4CITIES Book](https://www.fiware.org/about-us/smart-cities/fiware4cities-book/)
+* [Asset Administration Shell](https://industrialdigitaltwin.org/en/wp-content/uploads/sites/2/2024/01/IDTA-02017-1-0_Submodel_Asset-Interfaces-Description.pdf)
+  - [TD Convertor](https://github.com/eclipse-thingweb/td-tools/tree/main/node/aas-aid), try at [TD Playground](https://playground.thingweb.io/)
+* Data Spaces
