@@ -17,6 +17,7 @@
 * [W3C WoT and NGSI-LD Concepts, Martin Bauer, 02/03/2025](https://github.com/w3c/wot-ngsi-ld/blob/main/resources/W3C%20WoT%20and%20NGSI-LD%20Concepts.pptx)
 * [W3C WoT Web of Things: Status and Spatial Discovery, Michael McCool, 26/10/2023](https://github.com/w3c/wot/blob/main/PRESENTATIONS/2023-10-WoT-Status-McCool.pdf)
 * [W3C Web of Things Overview, Sebastian Kaebisch, 27/11/2023](https://github.com/w3c/wot/blob/main/PRESENTATIONS/2023-11-27-WoT-Overview-Sebastian.pdf)
+* [WoT Week 2024](https://github.com/w3c/wot/tree/main/PRESENTATIONS/2024-11-wot-week/Presentations)
 
 ## Papers and Reports
 * [ETSI Whitepaper No. 42, Guidelines for Modelling with NGSI-LD, Gilles Privat, 2021](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp_42_NGSI_LD.pdf)
