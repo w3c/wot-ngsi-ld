@@ -15,13 +15,19 @@ systems, although TDs themselves are designed to be serialized in JSON-LD in suc
 Ideally (although not strictly necessary for this use case) it would be possible to re-export ("expose") WoT TDs in such as way that they can be read ("consumed") by other systems
 via the NGSI-LD API.
 
-## Use with NGSI-LD Systems to connect to External IoT Devices and Services
+## Stakeholder Details
+To do
+
+## Feature Details
+Summary: Import WoT TDs into a NGSI-LD CIM System
+
 One use case for the use of WoT TDs with NGSI-LD-based systems is to import (in WoT terminology, "consume") WoT TDs in order to 
 obtain information to access external Things.  This can be used to "onboard" a device or service (make it accessible from)
 such a system.  Once the information is stored in an NGSI-LD CIM as linked data, it can be accessed by other systems using 
 NGSI-LD-defined APIs.
 
-This could be done in three ways:
+## Design Alternatives
+The objective could be implemented in (at least) three ways:
 1. A WoT TD, being Linked Data, could be imported directly into an NGSI-LD RDF graph.
 2. A WoT TD could be translated into NGSI-LD defined entities in the graph.
 3. A WoT TD could be used to "annotate" entities in an NGSI-LD graph.
@@ -42,7 +48,9 @@ WoT TDs could be imported into the NGSI-LD graph but kept in separate subgraphs 
 by a relation to other entities in the NGSI-LD graph.  This may make it possible to access the information expressed in
 WoT TDs while still making it easy to re-serialized and "expose" WoT TDs when necessary.
 
-## Applications
-As a possible application of having a WoT TD in an NGSI-LD graph, consider an NGSI-LD graph used as a "digital twin" of
-some system.  A WoT TD would provide information about real devices or services that a digital twin could use to access
-"live data" related to some entity in the digital twin's virtual model.
+## Purpose Details
+Summary: Use with NGSI-LD Systems to connect to External IoT Devices and Services.
+
+* Consider an NGSI-LD graph used as a "digital twin" of some system.
+  A WoT TD would provide information about real devices or services that a digital twin could use to access
+  "live data" related to some entity in the digital twin's virtual model.
