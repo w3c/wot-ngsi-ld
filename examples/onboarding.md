@@ -3,7 +3,9 @@ Summary: Onboarding of devices described by TDs into NSGI-LD systems.
 Support "Southbound" integration e.g. for a FIWARE server ingesting TD from other services.
 
 ## User Stories
-* As a Digital Twin Modeler, I need to be able to import WoT TDs into an NGSI-LD CIM system so that I can access live data from IoT devices and services.
+(As a STAKEHOLDER/WHO, I want FEATURE/WHAT so that I can PURPOSE/WHY)
+
+* As a Digital Twin Modeler, I want to be able to import WoT TDs into an NGSI-LD CIM system so that I can access live data from IoT devices and services.
 
 ## Background
 WoT Thing Descriptions (TDs) are intended to describe "Things", which are either physical IoT devices are virtual IoT services.
