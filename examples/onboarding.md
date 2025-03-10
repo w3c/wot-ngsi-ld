@@ -10,6 +10,8 @@ WoT Thing Descriptions (TDs) are intended to describe "Things", which are either
 The focus of WoT TDs are on descripting the network-accessible affordances of Things.  While technically optional, most of the 
 definitions on the WoT ontologies related to such network affordances.  The WoT TD information model can be used in Linked Data
 systems, although TDs themselves are designed to be serialized in JSON-LD in such a way that they can be consumed by non-RDF systems.
+Ideally (although not strictly necessary for this use case) it would be possible to re-export ("expose") WoT TDs in such as way that they can be read ("consumed") by other systems
+via the NGSI-LD API.
 
 ## Use with NGSI-LD Systems to connect to External IoT Devices and Services
 One use case for the use of WoT TDs with NGSI-LD-based systems is to import (in WoT terminology, "consume") WoT TDs in order to 
