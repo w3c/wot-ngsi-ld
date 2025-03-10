@@ -33,6 +33,7 @@ Owner: Juanjo
 ### Onboarding of devices described by TDs into NSGI-LD systems
 Owner: McCool
 * "Southbound" integration e.g. for a FIWARE server ingesting TD from other services.
+* [onboarding.md](onboarding.md)
 
 ### Describing NGSI-LD services with WoT TDs
 Owner: McCool
