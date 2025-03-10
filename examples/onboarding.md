@@ -26,7 +26,7 @@ obtain information to access external Things.  This can be used to "onboard" a d
 such a system.  Once the information is stored in an NGSI-LD CIM as linked data, it can be accessed by other systems using 
 NGSI-LD-defined APIs.
 
-## Design Alternatives
+## Feature Implementation Alternatives
 The objective could be implemented in (at least) three ways:
 1. A WoT TD, being Linked Data, could be imported directly into an NGSI-LD RDF graph.
 2. A WoT TD could be translated into NGSI-LD defined entities in the graph.
@@ -38,10 +38,14 @@ have to resolve if the different "type systems" are compatible.  It may also not
 export of WoT TDs if there are downstream consumers that would like to in turn consume these TDs.  However, if possible,
 it would make all WoT TD content available to existing NGSI-LD APIs.
 
+Problem: TDs are not designed using NGSI-LD structure and would probably not be compatible.
+
 ### Option 2: Translation
 If we determine that WoT TD and NGSI-LD ontologies are not compatible, it may be possible to modify the WoT TD content
 so it aligns with NGSI-LD conventions.  Like Option 1, this would make all information available to existing NGSI-LD APIs,
 but might make round-tripping more difficult: a reverse extraction-and-translation process would be needed.
+
+Problem: non-standard representation 
 
 ### Option 3: Annotation
 WoT TDs could be imported into the NGSI-LD graph but kept in separate subgraphs with their own sub-contexts, and linked
@@ -54,3 +58,4 @@ Summary: Use with NGSI-LD Systems to connect to External IoT Devices and Service
 * Consider an NGSI-LD graph used as a "digital twin" of some system.
   A WoT TD would provide information about real devices or services that a digital twin could use to access
   "live data" related to some entity in the digital twin's virtual model.
+  Ex: access real-time data for a lake modelled in the digital twin.
