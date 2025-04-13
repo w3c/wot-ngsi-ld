@@ -32,7 +32,7 @@ Owner: Juanjo
 
 ### Thing Description for NGSI-LD Entity as Thing using NGSI-LD API
 Owner: Martin
-    "Northbound" integration e.g. providing a TD for interacting with a Thing that is represented as an NGSI-LD Entity in a Context Broker: [EntityAsThing.md](EntityAsThing.md)
+* "Northbound" integration e.g. providing a TD for interacting with a Thing that is represented as an NGSI-LD Entity in a Context Broker: [EntityAsThing.md](EntityAsThing.md)
 
 ### Onboarding of devices described by TDs into NSGI-LD systems
 Owner: McCool
