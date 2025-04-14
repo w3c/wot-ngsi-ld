@@ -25,9 +25,9 @@ Owner: Rigo
 
 ### Thing Models as Templates
 Owner: Juanjo
-* Idea is to describe characteristics of Digital Twin classes using the Things Models (not Descriptiongs) language
+* Idea is to describe characteristics of Digital Twin classes using the Things Model (not Description) language
 * This will allow to derive TDs for instances (Things) of described Digital Twin classes in which NGSI-LD as an interface form
-* Besides, it NGSI-LD can be used for interacting with collection of Things
+* Besides, it NGSI-LD can be used for interacting with *collections* of Things
 * Starting point collected in this [presentation](https://docs.google.com/presentation/d/1-RI8q1hhnRqaZDwvxnpKnaaxQ0kMGtME/edit?usp=sharing&ouid=115453639179713725602&rtpof=true&sd=true)
 
 ### Thing Description for NGSI-LD Entity as Thing using NGSI-LD API
@@ -39,9 +39,10 @@ Owner: McCool
 * "Southbound" integration e.g. for a FIWARE server ingesting TD from other services.
 * [onboarding.md](onboarding.md)
 
-### Describing NGSI-LD services with WoT TDs
+### Describing NGSI-LD "services" with WoT TDs
 Owner: McCool
 * "Northbound" integration e.g. for a FIWARE server exposing TD for other services (including web browsers or RESTful API consumers).
+* OVERLAP with Martin's use case, but may apply to administrative services in NSGI-LD
 
 ### Privacy/Security/Safety and Access Controls
 Owner: Rigo
