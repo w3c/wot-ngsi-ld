@@ -30,6 +30,10 @@ Owner: Juanjo
 * Besides, it NGSI-LD can be used for interacting with collection of Things
 * Starting point collected in this [presentation](https://docs.google.com/presentation/d/1-RI8q1hhnRqaZDwvxnpKnaaxQ0kMGtME/edit?usp=sharing&ouid=115453639179713725602&rtpof=true&sd=true)
 
+### Thing Description for NGSI-LD Entity as Thing using NGSI-LD API
+Owner: Martin
+* "Northbound" integration e.g. providing a TD for interacting with a Thing that is represented as an NGSI-LD Entity in a Context Broker: [EntityAsThing.md](EntityAsThing.md)
+
 ### Onboarding of devices described by TDs into NSGI-LD systems
 Owner: McCool
 * "Southbound" integration e.g. for a FIWARE server ingesting TD from other services.
