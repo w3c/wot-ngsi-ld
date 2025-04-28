@@ -29,16 +29,10 @@ What work needs to be done, by whom?
 * Collaboratively document and prioritize potential Use Cases for the combination of WoT and NGSI-LD.
 * Depending on the prioritized use cases, develop documents detailing the interactions between WoT and NSGI-LD, including any needed or desireable specification extensions.
 
-## Potential Deliverables 
-The following have been discussed but have not been formally agreed to.
-* NGSI-LD API Binding Document as W3C Note
-   - Alternatives with more details:
-       * NGSI-LD API Binding Document as W3C Note describing how instance-specific information for WoT Thing Descriptions are 
-         derived from a WoT Thing Model using NGSI-LD as a mechanism to interact with Things
-       * NGSI-LD API Binding Document as W3C Note describing how to use NGSI-LD to interact with Things
-       * NGSI-LD API Binding Document as W3C Note describing what information is needed to interact with an NGSI-LD service
-* Extend ETSI GR-055 or another document to include the use of WoT Thing Description for NGSI-LD model description
-* Documents and presentations exploring the explaining the potential use cases.
+## Activities
+* Identify compatibility problems
+* Perform tests of WoT/NSGI-LD integrations
+* Identify relevant use cases
 
 ## Schedule
 Activities are expected to be completed by end of 2025.
